@@ -1,0 +1,11 @@
+name: PLHidePlugin
+version: 1.0
+main: me.dz.PLHidePlugin
+api-version: 1.20
+description: Hide /pl and similar commands from unauthorized players
+author: Dzakirii
+
+permissions:
+  plhide.bypass:
+    description: Allows access to plugin commands
+    default: op
